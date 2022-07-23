@@ -1,0 +1,33 @@
+.mart{
+    margin-top: 17%;
+    margin-left: 15%;
+}
+.tag-line{
+    line-height: 3rem;
+    font-size: 3rem;
+    margin-top: 10%;
+    font-weight: 600;
+}
+
+.textBlue {
+    color: #093b80;
+}
+.textGrey {
+    color: #6d7a81 !important;
+}
+.GP{
+    color: #093b80;
+    background-color: #b1dafe;
+    border-radius: 15px;
+    padding: 0px 15px;
+    width: fit-content;
+}
+.btn-apply{
+    width: 200px;
+    border-radius: 18px;
+    background-color: #113f89;
+    color: white;
+    margin-top: 4%;
+    padding: 5px;
+    border: 1px solid #e5f2fc !important;
+}

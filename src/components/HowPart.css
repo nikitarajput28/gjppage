@@ -1,0 +1,28 @@
+.how-conent{
+    text-align: center;
+}
+.how-card-cont{
+    display: flex;
+    justify-content: space-between;
+}
+.how-card{
+    width: 25%;
+    border-radius: 15px;
+    padding: 15px 15px;
+    box-shadow: 8px 8px 9px #dfe2eb, -8px -8px 9px #ffffff;
+}
+.how-upper{
+    display: flex;
+    align-content: center;
+    height: 50%;
+}
+.how-heading{
+    margin-left: 20%;
+}
+.how-heading h2{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.no-margin no-padding{
+    color: #589bd1;
+}

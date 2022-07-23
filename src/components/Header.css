@@ -1,0 +1,38 @@
+.Navbar-Container{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px 15px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    
+}
+
+.logo-conttainer img{
+    /* height: 50px; */
+    /* width: 50px; */
+    width: 45px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.menu-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    display: flex;
+}
+.menu-nav li{
+    margin-left: 20px;
+    margin-right: 25px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+}
+.menu-nav ul{
+    margin-bottom: 0;
+}
